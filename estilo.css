@@ -22,3 +22,9 @@ justify-content: space-around;
   font-style: normal;
   font-size: 70px;
 }
+.cabecalho-item{
+  display: inline-block;
+  font-style: 24px;
+  margin: 0 16px;
+  margin-right: 100%;
+}
