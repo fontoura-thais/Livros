@@ -30,6 +30,8 @@ justify-content: space-around;
 }
 .secao1{
   display: flex;
-
   justify-content: space-between;
+}
+.secao1-div{
+  width: 35%;
 }
