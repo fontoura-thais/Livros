@@ -44,3 +44,8 @@ justify-content: space-around;
 .secao1-imagem{
   width: 10%;
 }
+.secao2{
+  text-align: center;
+  font: size 30px; ;
+  color: blueviolet;
+}
