@@ -50,6 +50,7 @@ justify-content: space-around;
   text-align: center;
   font: size 30px; ;
   color: blueviolet;
+  padding: 20px;
 }
 .secao2-todos-os-titulos{
   display: grid;
