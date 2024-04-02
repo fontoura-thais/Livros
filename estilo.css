@@ -58,3 +58,8 @@ justify-content: space-around;
   grid-template-columns:25% 25% 25% 25%  ;
   padding-top: 30px;
 }
+.rodape{
+  background-color: #d995f0;
+  text-align: center;
+  
+}
